@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ToLearn
 
-- 🌱 I'm currently learning Docker, React Native, and  Business Development
+- 🌱 I'm currently learning "Docker", React Native, and  Business Development
 
 - 👯 I’m looking to collaborate on GeoLab
 
