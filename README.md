@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on GeoLab
 
-- 💬 Ask me about JavaScript, PHP, Laravel, Angular, ReactJS, Ionic
+- 💬 Ask me about JavaScript, NodeJS, Laravel, Angular, ReactJS, Ionic and MongoDB
 
 - 📫 How to reach me: avocegamouraph@gmail.com
 
