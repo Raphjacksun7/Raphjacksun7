@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi there 👋, I'm Raphae AVOCEGAMOU
+A passionate Software Engineer from Benin
+
+- 🔭 I’m currently working on ToLearn
+
+- 🌱 I'm currently learning Docker, React Native, and  Business Development
+
+- 👯 I’m looking to collaborate on PHP-src
+
+- 💬 Ask me about JavaScript, PHP, Laravel, Angular, ReactJS, Ionic
+
+- 📫 How to reach me: avocegamouraph@gmail.com
+
+- ⚡ Fun fact: I'm Rapper 😄, [here](https://audiomack.com/raph-jacksun/song) are my songs
