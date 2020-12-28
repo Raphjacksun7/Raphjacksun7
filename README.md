@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm Raphael
+## I'm Raph
 # A passionate Software Engineer from Benin
 
 - 🔭 I’m currently working on ToLearn
