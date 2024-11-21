@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about JavaScript, NodeJS, Laravel, Angular, ReactJS, Ionic and MongoDB
 
-- ⚡ Fun fact: I'm Rapper 😄, [here](https://audiomack.com/raph-jacksun/song) are my songs
+- ⚡ Fun fact: I'm Rapper 😄, [here](https://linktr.ee/raphjacksun) are my songs
