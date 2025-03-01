@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 ## I'm Raph
 # A passionate Software Engineer 
 
-- 🔭 I’m currently working on ToLearn
 
-- 🌱 I'm currently learning Docker, React Native, and  Business Development
+- 🌱 I'm currently learning reinforcement learning, time-series modeling, and deep generative models
 
-- 👯 I’m looking to collaborate on GeoLab
+- 👯 I’m looking to collaborate on deep q-learning agents for genomic pipelines.
 
-- 💬 Ask me about JavaScript, NodeJS, Laravel, Angular, ReactJS, Ionic and MongoDB
+- 💬 Ask me about software engineering, bioinformatics, genomic data analysis
 
 - ⚡ Fun fact: I'm Rapper 😄, [here](https://linktr.ee/raphjacksun) are my songs
