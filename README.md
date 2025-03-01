@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## I'm Raph
-# A passionate Software Engineer from Benin
+# A passionate Software Engineer 
 
 - 🔭 I’m currently working on ToLearn
 
