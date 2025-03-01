@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on deep q-learning agents for genomic pipelines.
 -->
 
 
@@ -21,8 +22,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 I'm currently learning reinforcement learning, time-series modeling, and deep generative models
-
-- 👯 I’m looking to collaborate on deep q-learning agents for genomic pipelines.
 
 - 💬 Ask me about software engineering, bioinformatics, genomic data analysis
 
